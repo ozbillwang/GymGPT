@@ -1,6 +1,12 @@
 # GymGPT
 
-Ref: https://gymnasium.farama.org/
+### ref: 
+
+* https://gymnasium.farama.org/
+
+* https://github.com/Farama-Foundation/Gymnasium
+
+### usage
 
 Run it on video device, such as Macbook, otherwise, you will get error
 
