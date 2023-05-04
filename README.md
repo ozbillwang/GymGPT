@@ -6,6 +6,8 @@
 
 * https://github.com/Farama-Foundation/Gymnasium
 
+Better readme than the homepage of https://gymnasium.farama.org/ :-)
+
 ### usage
 
 Run it on video device, such as Macbook, otherwise, you will get error
